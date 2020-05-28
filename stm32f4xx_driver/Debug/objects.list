@@ -1,0 +1,7 @@
+"Src/011usart_tx.o"
+"Startup/startup_stm32f446retx.o"
+"drivers/Src/stm32f44xx_gpio_driver.o"
+"drivers/Src/stm32f44xx_i2c_driver.o"
+"drivers/Src/stm32f44xx_rcc_driver.o"
+"drivers/Src/stm32f44xx_spi_driver.o"
+"drivers/Src/stm32f44xx_usart_driver.o"
